@@ -1,6 +1,6 @@
 #Grant Slattery
 #9/4/20
-#Source of project: https://dash.plotly.com/datatable
+#Made using Dash Data Table: https://dash.plotly.com/datatable
 #API & data Powered by CoinDesk: https://www.coindesk.com/price/bitcoin
 #Scraping data and displaying it on the web using dash, 
 #panda, requests, and more with Python
