@@ -9,8 +9,6 @@ import dash
 import dash_table
 import pandas as pd
 import requests
-import datetime
-
 
 
 #############
