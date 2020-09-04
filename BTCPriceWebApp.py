@@ -3,7 +3,7 @@
 #Source of project: https://dash.plotly.com/datatable
 #API & data Powered by CoinDesk: https://www.coindesk.com/price/bitcoin
 #Scraping data and displaying it on the web using dash, 
-#panda, requests, and morenwith Python
+#panda, requests, and more with Python
 
 import dash
 import dash_table
